@@ -1,6 +1,4 @@
-### ENGLISH BELOW
-
-In deze map vind je de spelbestanden voor de BETTI Game – AI in de provincie: Knelpunt of knooppunt? Deze serious game is ontwikkeld binnen de Provincie Zuid-Holland als onderdeel van het Interreg BETTI project en is gedeeld onder de Creative Commons BY licentie. Dit betekent dat je het spel vrij mag delen, kopiëren en zelfs aanpassen aan je eigen situatie, zolang je de Provincie Zuid-Holland maar als bron vermeldt, en ook eventuele aanpassingen. Zo kan het spel breed gebruikt worden door andere organisaties, scholen en overheden die over AI in gesprek willen gaan.  
+ In deze map vind je de spelbestanden voor de BETTI Game – AI in de provincie: Knelpunt of knooppunt? Deze serious game is ontwikkeld binnen de Provincie Zuid-Holland als onderdeel van het Interreg BETTI project en is gedeeld onder de Creative Commons BY licentie. Dit betekent dat je het spel vrij mag delen, kopiëren en zelfs aanpassen aan je eigen situatie, zolang je de Provincie Zuid-Holland maar als bron vermeldt, en ook eventuele aanpassingen. Zo kan het spel breed gebruikt worden door andere organisaties, scholen en overheden die over AI in gesprek willen gaan.  
 
 ## BETTI game AI in de provincie: Knelpunt of knooppunt? 
 
